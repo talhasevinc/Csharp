@@ -4,6 +4,7 @@ Connect Process:
 
 
 
+Line is listening from interrupt. When message came, directly writed message box.
 
 ![Second](https://user-images.githubusercontent.com/34924065/136667709-d56d6021-e27e-4933-a730-53ab00a147a9.JPG)
 
