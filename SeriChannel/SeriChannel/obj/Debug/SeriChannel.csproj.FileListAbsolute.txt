@@ -1,0 +1,15 @@
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.csprojAssemblyReference.cache
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.Form1.resources
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.Form2.resources
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.Properties.Resources.resources
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.csproj.GenerateResource.cache
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.csproj.CoreCompileInputs.cache
+G:\GithubProje\C#\SeriChannel\SeriChannel\bin\Debug\SeriChannel.exe.config
+G:\GithubProje\C#\SeriChannel\SeriChannel\bin\Debug\SeriChannel.exe
+G:\GithubProje\C#\SeriChannel\SeriChannel\bin\Debug\SeriChannel.pdb
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.exe
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.pdb
+G:\GithubProje\C#\SeriChannel\SeriChannel\bin\Debug\SeriChannel.exe.manifest
+G:\GithubProje\C#\SeriChannel\SeriChannel\bin\Debug\SeriChannel.application
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.exe.manifest
+G:\GithubProje\C#\SeriChannel\SeriChannel\obj\Debug\SeriChannel.application
